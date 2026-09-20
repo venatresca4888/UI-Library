@@ -1,0 +1,186 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/sametexe001/sametlibs/refs/heads/main/Pandora/Library.lua"))()
+
+local Window = Library:Window({
+    Logo = "rbxassetid://124454910007637",
+    Build = "developer"
+}) 
+
+local KeybindList = Library:KeybindList()
+local Watermark = Library:Watermark("This is a watermark", "rbxassetid://124454910007637")
+
+do 
+    local Pages = {
+        ["Combat"] = Window:Page({Icon = "rbxassetid://113972874520335"}),
+        ["Combat2"] = Window:Page({Icon = "rbxassetid://113972874520335"}),
+        ["Combat3"] = Window:Page({Icon = "rbxassetid://113972874520335"}),
+        ["Combat4"] = Window:Page({Icon = "rbxassetid://113972874520335"}),
+        ["Combat5"] = Window:Page({Icon = "rbxassetid://113972874520335"}),
+        ["Combat6"] = Window:Page({Icon = "rbxassetid://113972874520335"}),
+        ["Combat7"] = Window:Page({Icon = "rbxassetid://113972874520335"}),
+    }
+
+    local SettingsPage = Library:CreateSettingsPage(Window, KeybindList, Watermark)
+
+    do -- Combat 1
+        local SubPages = {
+            ["Ragebot"] = Pages["Combat"]:SubPage({Name = "Ragebot"}),
+            ["Aimbot"] = Pages["Combat"]:SubPage({Name = "Aimbot"}),
+            ["Visuals"] = Pages["Combat"]:SubPage({Name = "Visuals"}),
+            ["Misc"] = Pages["Combat"]:SubPage({Name = "Misc"})
+        }
+
+        do -- Ragebot
+            local SectionLeft = SubPages["Ragebot"]:Section({Name = "General"})
+            local SectionRight = SubPages["Ragebot"]:Section({Name = "General"})
+
+            do -- Section left
+                local NoticesBulgeOwoWhatsThisQuestionMark = SectionLeft:Toggle({
+                    Name = "Toggle",
+                    Flag = "Toggle",
+                    Default = false,
+                    Callback = function(Value)
+                        print(Value)
+                    end
+                })
+
+                for i = 1, 20 do 
+                    SectionLeft:Toggle({
+                        Name = "Toggle "..i,
+                        Flag = "Toggle"..i,
+                        Default = false,
+                        Callback = function(Value)
+                            print(Value)
+                        end
+                    })
+                end
+
+                NoticesBulgeOwoWhatsThisQuestionMark:Colorpicker({
+                    Flag = "Colorpicker",
+                    Default = Color3.fromRGB(255, 255, 255),
+                    Alpha = 0,
+                    Callback = function(Value)
+                        print(Value)
+                    end
+                })
+
+                NoticesBulgeOwoWhatsThisQuestionMark:Keybind({
+                    Name = "Yo ts a keybind",
+                    Flag = "Keybind",
+                    Default = Enum.KeyCode.RightShift,
+                    Mode = "Toggle",
+                    Callback = function(Value)
+                        print(Value)
+                    end
+                })
+
+                SectionLeft:Button({
+                    Name = "Button",
+                    Callback = function()
+                        print("Button")
+                    end
+                })
+
+                SectionLeft:Slider({
+                    Name = "Slider",
+                    Flag = "Slider",
+                    Default = 50,
+                    Compact = false,
+                    Min = 0,
+                    Max = 100,
+                    Decimals = 1,
+                    Suffix = "%",
+                    Callback = function(Value)
+                        print(Value)
+                    end
+                })
+
+                SectionLeft:Slider({
+                    Name = "Slider",
+                    Flag = "Slider",
+                    Default = 50,
+                    Compact = true,
+                    Min = 0,
+                    Max = 100,
+                    Decimals = 1,
+                    Suffix = "%",
+                    Callback = function(Value)
+                        print(Value)
+                    end
+                })
+
+                SectionLeft:Dropdown({
+                    Name = "Dropdown",
+                    Flag = "Dropdown",
+                    Multi = false,
+                    Items = {"First", "Second", "Third", "Fourth", "Fifth", "Sixth"},
+                    Default = "First",
+                    Callback = function(Value)
+                        print(Value)
+                    end
+                })
+
+                local Hello=SectionLeft:Label("jasdasd")
+                for i=1,5 do
+                    Hello:Colorpicker({
+                        Flag = "Colorpicker"..i,
+                        Default = Color3.fromRGB(math.random(1, 255), math.random(1, 255), math.random(1, 255)),
+                        Alpha = 0,
+                        Callback = function(Value)
+                            print(Value)
+                        end
+                    })
+                end
+
+                SectionLeft:Textbox({
+                    Name = "Textbox",
+                    Flag = "Textbox",
+                    Placeholder = "...",
+                    Numeric = false,
+                    Finished = false,
+                    Default = "yo gurt",
+                    Callback = function(Value)
+                        print(Value)
+                    end
+                })
+
+                SectionLeft:Searchbox({
+                    Name = "Searchbox",
+                    Flag = "Searchbox",
+                    Multi = false,
+                    Items = {"First", "Second", "Third", "Fourth", "Fifth", "Sixth"},
+                    Default = "First",
+                    Callback = function(Value)
+                        print(Value)
+                    end
+                })
+            end
+
+            do -- Section right
+                SectionRight:Toggle({
+                    Name = "Toggle",
+                    Flag = "Toggle2",
+                    Default = false,
+                    Callback = function(Value)
+                        print(Value)
+                    end
+                })
+            end
+        end
+    end
+
+    do -- Combat 2
+        local SubPages = {
+            ["Weapon"] = Pages["Combat2"]:SubPage({Name = "Weapon"}),
+            ["Silent Aim"] = Pages["Combat2"]:SubPage({Name = "Silent Aim"}),
+            ["Visuals"] = Pages["Combat2"]:SubPage({Name = "Visuals"}),
+            ["Misc"] = Pages["Combat2"]:SubPage({Name = "Misc"})
+        }
+
+        do -- Ragebot
+            local SectionLeft = SubPages["Weapon"]:Section({Name = "General"})
+            local SectionRight = SubPages["Weapon"]:Section({Name = "General"})
+        end
+    end
+end
+
+Library:Notification("Welcome back, Loaded in "..string.format("%.4f", os.clock() - LoadingTick).." seconds", 5, Library.Theme.Accent)

@@ -168,3 +168,34 @@ Showcase : https://youtu.be/FcVXVaTPqNY
 # [Imgui](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Imgui/Imgui%20-%20library.lua)
 
 <img width="528" height="608" alt="image" src="https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Imgui/Imgui.webp?raw=true" />
+<<<<<<< HEAD
+=======
+
+# [RayfieldGen2](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/RayfieldGen2/RayfieldGen2%20-%20Example.lua)
+
+<img width="539" height="550" alt="image" src="https://github.com/venatresca4888/UI-Library/blob/main/Libraries/RayfieldGen2/RayfieldGen2.webp?raw=true" />
+
+# [nhack](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/nhack/nhack%20-%20Example.lua)
+
+<img width="539" height="550" alt="image" src="https://github.com/venatresca4888/UI-Library/blob/main/Libraries/nhack/nhack.png?raw=true" />
+
+# [Mentality](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/nhack/nhack%20-%20Example.lua)
+
+<img width="539" height="550" alt="image" src="https://github.com/venatresca4888/UI-Library/blob/main/Libraries/nhack/nhack.png?raw=true" />
+
+# [Pandora](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/nhack/nhack%20-%20Example.lua)
+
+<img width="539" height="550" alt="image" src="https://github.com/venatresca4888/UI-Library/blob/main/Libraries/nhack/nhack.png?raw=true" />
+
+# [Thugsense](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/nhack/nhack%20-%20Example.lua)
+
+<img width="539" height="550" alt="image" src="https://github.com/venatresca4888/UI-Library/blob/main/Libraries/nhack/nhack.png?raw=true" />
+
+# [Stellar](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/nhack/nhack%20-%20Example.lua)
+
+<img width="539" height="550" alt="image" src="https://github.com/venatresca4888/UI-Library/blob/main/Libraries/nhack/nhack.png?raw=true" />
+
+# [nexonix](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/nhack/nhack%20-%20Example.lua)
+
+<img width="539" height="550" alt="image" src="https://github.com/venatresca4888/UI-Library/blob/main/Libraries/nhack/nhack.png?raw=true" />
+>>>>>>> 3334adb (fix)
