@@ -4,15 +4,15 @@
 
 # [Fluent UI Custom](https://raw.githubusercontent.com/venatresca4888/UI-Library/refs/heads/main/Libraries/Fluent-UI-Custom)
 
-![image](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/assets/%7B4CA82D9C-5E86-40DF-A853-B54605029AF3%7D.png?raw=true)
+![image](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/FluentUICustom/FluentUICustom.png?raw=true)
 
 # [Rayfield](https://raw.githubusercontent.com/venatresca4888/UI-Library/main/Libraries/Rayfield%20-%20Library.lua)
 
-![image](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/assets/Rayfield.png?raw=true)
+![image](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Rayfield/Rayfield.png?raw=true)
 
 # [Pepsi UI](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Pepsi%20-%20Example.lua)
 
-![image](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/assets/Pepsi-UI.png?raw=true)
+![image](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Pepsi/Pepsi-UI.png?raw=true)
 
 # [Maclib UI](https://raw.githubusercontent.com/venatresca4888/UI-Library/refs/heads/main/Libraries/Maclib%20-%20Library.lua)
 
@@ -25,21 +25,22 @@ Maclib is constantly updated to provide a robust and adaptable framework, ensuri
 Innovative Features
 Maclib provides a multitude of innovative features that streamline the development process and elevate the user experience, blending efficiency with elegance to transform your projects.
 
-<img width="889" height="672" alt="Screenshot 2025-08-29 021811" src="https://github.com/venatresca4888/UI-Library/blob/main/Libraries/assets/Maclib-UI.png?raw=true" />
+
+- 📄 Document: https://brady-xyz.gitbook.io/maclib-ui-library/information/documentation-formatting
+
+<img width="889" height="672" alt="Screenshot 2025-08-29 021811" src="https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Maclib/Maclib-UI.png?raw=true" />
 
 # [Void UI](https://raw.githubusercontent.com/venatresca4888/UI-Library/refs/heads/main/Libraries/Void%20-%20Library.lua)
 
 Drawing and Open Source
 
-- 📄 Document: https://brady-xyz.gitbook.io/maclib-ui-library/information/documentation-formatting
+<img width="590" height="641" alt="183229103-0fa28bc3-19b3-41fa-aa68-d2427bc20ed7" src="https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Void/Void-UI.png?raw=true" />
 
-<img width="590" height="641" alt="183229103-0fa28bc3-19b3-41fa-aa68-d2427bc20ed7" src="https://github.com/venatresca4888/UI-Library/blob/main/Libraries/assets/Void-UI.png?raw=true" />
-
-# [Nothing UI]([https://raw.githubusercontent.com/venatresca4888/UI-Library/refs/heads/main/Libraries/PRIV9%20-%20Example.lua](https://raw.githubusercontent.com/venatresca4888/UI-Library/refs/heads/main/Libraries/Nothing%20-%20Library.lua))
+# [Nothing UI](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Nothing/Nothing%20-%20Example.lua)
 
 - 📄 Document: https://github.com/3345-c-a-t-s-u-s/NOTHING
 
-<img width="627" height="422" alt="Screenshot 2025-08-29 021349" src="https://github.com/venatresca4888/UI-Library/blob/main/Libraries/assets/Nothing-UI.png?raw=true" />\
+<img width="627" height="422" alt="Screenshot 2025-08-29 021349" src="https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Nothing/Nothing-UI.png?raw=true" />\
 
 # [CompKiller UI](https://raw.githubusercontent.com/venatresca4888/UI-Library/refs/heads/main/Libraries/CompKiller%20-%20Library.lua)
 
