@@ -168,8 +168,6 @@ Showcase : https://youtu.be/FcVXVaTPqNY
 # [Imgui](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Imgui/Imgui%20-%20library.lua)
 
 <img width="528" height="608" alt="image" src="https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Imgui/Imgui.webp?raw=true" />
-<<<<<<< HEAD
-=======
 
 # [RayfieldGen2](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/RayfieldGen2/RayfieldGen2%20-%20Example.lua)
 
@@ -177,25 +175,31 @@ Showcase : https://youtu.be/FcVXVaTPqNY
 
 # [nhack](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/nhack/nhack%20-%20Example.lua)
 
-<img width="539" height="550" alt="image" src="https://github.com/venatresca4888/UI-Library/blob/main/Libraries/nhack/nhack.png?raw=true" />
+<img width="3434" height="1432" alt="image" src="https://github.com/user-attachments/assets/039aa92b-d783-4b27-90b6-911e2db7d7d4" />
 
-# [Mentality](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/nhack/nhack%20-%20Example.lua)
+# [Mentality](https://github.com/sametexe001/sametlibs/blob/main/Mentality/Example.lua)
 
-<img width="539" height="550" alt="image" src="https://github.com/venatresca4888/UI-Library/blob/main/Libraries/nhack/nhack.png?raw=true" />
+<img width="1365" height="782" alt="resim" src="https://github.com/user-attachments/assets/37af0c29-7f6d-43b0-b509-f98531f94d96" />
+<img width="364" height="605" alt="resim" src="https://github.com/user-attachments/assets/ddf62c2b-75b9-4837-9861-273e56ffd2fd" />
+<img width="421" height="255" alt="resim" src="https://github.com/user-attachments/assets/47bff499-7fe8-4ea0-8212-a8d3458c6403" />
+<img width="400" height="196" alt="resim" src="https://github.com/user-attachments/assets/d03796b8-88b8-4e2a-bbd4-8499e77c98c2" />
+<img width="247" height="315" alt="resim" src="https://github.com/user-attachments/assets/823075ed-25a9-4c82-96dc-4964b7045545" />
+<img width="709" height="707" alt="resim" src="https://github.com/user-attachments/assets/e8ae94ca-e40c-498b-96e0-c3555153d8d5" />
 
-# [Pandora](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/nhack/nhack%20-%20Example.lua)
+# [Pandora](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Pandora/Pandora%20-%20Example.lua)
 
-<img width="539" height="550" alt="image" src="https://github.com/venatresca4888/UI-Library/blob/main/Libraries/nhack/nhack.png?raw=true" />
+<img width="869" height="531" alt="image" src="https://github.com/user-attachments/assets/2c6135f5-5cfe-428b-80be-c0995c72a64e" />
 
-# [Thugsense](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/nhack/nhack%20-%20Example.lua)
+# [Thugsense](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Thugsense/Thugsense%20-%20Example.lua)
 
-<img width="539" height="550" alt="image" src="https://github.com/venatresca4888/UI-Library/blob/main/Libraries/nhack/nhack.png?raw=true" />
+<img width="270" height="289" alt="resim" src="https://github.com/user-attachments/assets/be09607e-b5ed-42d8-8d0b-1e17abf4ff80" />
+<img width="575" height="767" alt="resim" src="https://github.com/user-attachments/assets/87d81447-bbcf-4d65-a242-63dfefd94768" />
+<img width="567" height="643" alt="resim" src="https://github.com/user-attachments/assets/10d35dec-c9f5-440b-b578-272eabca9072" />
 
-# [Stellar](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/nhack/nhack%20-%20Example.lua)
+# [Stellar](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Stellar/Stellar%20-%20Example.lua)
 
-<img width="539" height="550" alt="image" src="https://github.com/venatresca4888/UI-Library/blob/main/Libraries/nhack/nhack.png?raw=true" />
+<img width="848" height="829" alt="image" src="https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Stellar/Stellar.png?raw=true" />
 
-# [nexonix](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/nhack/nhack%20-%20Example.lua)
+# [nexonix](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/nexonix/nexonix%20-%20Example.lua)
 
-<img width="539" height="550" alt="image" src="https://github.com/venatresca4888/UI-Library/blob/main/Libraries/nhack/nhack.png?raw=true" />
->>>>>>> 3334adb (fix)
+<img width="1429" height="841" alt="image" src="https://github.com/venatresca4888/UI-Library/blob/main/Libraries/nexonix/nexonix.png?raw=true" />
