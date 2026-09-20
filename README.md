@@ -1,6 +1,6 @@
-# [Fluent UI](https://raw.githubusercontent.com/venatresca4888/UI-Library/main/Libraries/FluentUI-Example.lua)
+# [Fluent UI](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/FluentUI/FluentUI-Example.lua)
 
-![image](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/assets/Fluent-UI.png?raw=true)
+![image](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/FluentUI/Fluent-UI.png?raw=true)
 
 # [Fluent UI Custom](https://raw.githubusercontent.com/venatresca4888/UI-Library/refs/heads/main/Libraries/Fluent-UI-Custom)
 
