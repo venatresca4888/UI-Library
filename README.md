@@ -2,19 +2,19 @@
 
 ![image](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/FluentUI/Fluent-UI.png?raw=true)
 
-# [Fluent UI Custom](https://raw.githubusercontent.com/venatresca4888/UI-Library/refs/heads/main/Libraries/Fluent-UI-Custom)
+# [Fluent UI Custom](https://github.com/venatresca4888/UI-Library/tree/main/Libraries/FluentUICustom)
 
 ![image](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/FluentUICustom/FluentUICustom.png?raw=true)
 
-# [Rayfield](https://raw.githubusercontent.com/venatresca4888/UI-Library/main/Libraries/Rayfield%20-%20Library.lua)
+# [Rayfield](https://github.com/venatresca4888/UI-Library/tree/main/Libraries/Rayfield)
 
 ![image](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Rayfield/Rayfield.png?raw=true)
 
-# [Pepsi UI](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Pepsi%20-%20Example.lua)
+# [Pepsi UI](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Maclib/Maclib%20-%20Example.lua)
 
 ![image](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Pepsi/Pepsi-UI.png?raw=true)
 
-# [Maclib UI](https://raw.githubusercontent.com/venatresca4888/UI-Library/refs/heads/main/Libraries/Maclib%20-%20Library.lua)
+# [Maclib UI](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Maclib/Maclib%20-%20Example.lua)
 
 Beautiful Interface
 Experience a sleek, modern interface inspired by macOS with Maclib’s UI, designed to provide a clean and clutter-free space for effortless customization.
@@ -30,7 +30,7 @@ Maclib provides a multitude of innovative features that streamline the developme
 
 <img width="889" height="672" alt="Screenshot 2025-08-29 021811" src="https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Maclib/Maclib-UI.png?raw=true" />
 
-# [Void UI](https://raw.githubusercontent.com/venatresca4888/UI-Library/refs/heads/main/Libraries/Void%20-%20Library.lua)
+# [Void UI](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Void/Void%20-%20Example.lua)
 
 Drawing and Open Source
 
@@ -42,69 +42,69 @@ Drawing and Open Source
 
 <img width="627" height="422" alt="Screenshot 2025-08-29 021349" src="https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Nothing/Nothing-UI.png?raw=true" />\
 
-# [CompKiller UI](https://raw.githubusercontent.com/venatresca4888/UI-Library/refs/heads/main/Libraries/CompKiller%20-%20Library.lua)
+# [CompKiller UI](https://github.com/venatresca4888/UI-Library/tree/main/Libraries/CompKiller)
 
-<img width="621" height="501" alt="457622500-b1c3a6d2-ef1f-42eb-91fe-cbdc2ce17721" src="https://github.com/venatresca4888/UI-Library/blob/main/Libraries/assets/CompKiller-UI.png?raw=true" />
+<img width="621" height="501" alt="457622500-b1c3a6d2-ef1f-42eb-91fe-cbdc2ce17721" src="https://github.com/venatresca4888/UI-Library/blob/main/Libraries/CompKiller/CompKiller-UI.png?raw=true" />
 
-# [Kavo](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Kavo%20-%20Example.lua)
+# [Kavo](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Kavo/Kavo%20-%20Example.lua)
 
-![image](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/assets/Kavo.png?raw=true)
+![image](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Kavo/Kava.png?raw=true)
 
-# [Discord UI](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Discord%20-%20Example.lua)
+# [Discord UI](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Discord/Discord%20-%20Example.lua)
 
-![image](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/assets/Discord-UI?raw=true)
+![image](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Discord/Discord-UI.png?raw=true)
 
-# [Flux](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Flux%20-%20Example.lua)
+# [Flux](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Flux/Flux%20-%20Example.lua)
 
-![image](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/assets/Flux.png?raw=true)
+![image](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Flux/Flux.png?raw=true)
 
-# [Vape](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/vape%20-%20Example.lua)
+# [Vape](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/vape/vape%20-%20Example.lua)
 
 Showcase: https://youtu.be/bCRsS42AUYw
 
-![image](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/assets/Vape.png?raw=true)
+![image](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/vape/Vape.png?raw=true)
 
-# [Mercury](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Mercury%20-%20Example.lua)
+# [Mercury](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Mercury/Mercury%20-%20Example.lua)
 
-![image](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/assets/Mercury-1.png?raw=true)
+![image](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Mercury/Mercury-1.png?raw=true)
 
-![image](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/assets/Mercury-2.png?raw=true)
-
-
-# [Venyx](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Venyx%20-%20Example.lua)
-
-![image](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/assets/Venyx.png?raw=true)
+![image](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Mercury/Mercury-2.png?raw=true)
 
 
-# [Ocerium](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Ocerium%20-%20Example.lua)
+# [Venyx](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Venyx/Venyx%20-%20Example.lua)
+
+![image](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Venyx/Venyx.png?raw=true)
+
+
+# [Ocerium](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Ocerium/Ocerium%20-%20Example.lua)
 
 Showcase: https://youtu.be/ZeOFJvqhyMs
 
-![image](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/assets/Ocerium.png?raw=true)
+![image](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Ocerium/Ocerium.png)
 
-# [Orion](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Orion%20-%20Example.lua)
+# [Orion](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Orion/Orion%20-%20Example.lua)
 
-![image](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/assets/Orion.png?raw=true)
+![image](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Orion/Orion.png?raw=true)
 
-# [Linoria Rewrite](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Linoria%20-%20Example.lua)
+# [Linoria Rewrite](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Linoria/Linoria%20-%20Example.lua)
 
-![image](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/assets/Linoria-Rewrite.png?raw=true)
+![image](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Linoria/Linoria-Rewrite.png?raw=true)
 
-# [uwuware 2.x](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/uwuware%20(2.x)%20-%20Library.lua)
+# [uwuware 2.x](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/uwuware%20(2.x)/uwuware%20(2.x)%20-%20Library.lua)
 
-![image](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/assets/uwuware-2.x.png?raw=true)
+![image](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/uwuware%20(2.x)/uwuware-2.x.png?raw=true)
 
-# [uwuware (wally)](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/uwuware%20(wally)%20-%20Library.lua)
+# [uwuware (wally)](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/uwuware%20(wally)/uwuware%20(wally)%20-%20Library.lua)
 
-![image](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/assets/uwuware-wally.png?raw=true)
+![image](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/uwuware%20(wally)/uwuware-wally.png?raw=true)
 
-# [Xanax UI](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Xanax%20-%20Example.lua)
+# [Xanax UI](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Xanax/Xanax%20-%20Example.lua)
 
-![image](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/assets/Xanax-UI.png?raw=true)
+![image](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Xanax/Xanax-UI.png?raw=true)
 
-# [Lime UI](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Lime%20-%20Example.lua)
+# [Lime UI](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Lime/Lime%20-%20Example.lua)
 
-![image](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/assets/Lime-UI.png?raw=true)
+![image](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Lime/Lime-UI.png?raw=true)
 
 # [Linui](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Linui%20-%20Example.lua)
 
@@ -112,13 +112,13 @@ Showcase : https://youtu.be/FcVXVaTPqNY
 
 ![image](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/assets/Linui.png?raw=true)
 
-# [Darius](https://raw.githubusercontent.com/venatresca4888/UI-Library/refs/heads/main/Libraries/Darius%20-%20Example%20.lua)
+# [Darius](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Darius/Darius%20-%20Example%20.lua)
 
-![image](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/assets/Darius.png?raw=true)
+![image](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Darius/Darius.png?raw=true)
 
-# [Obsidian](https://raw.githubusercontent.com/venatresca4888/UI-Library/refs/heads/main/Libraries/Obsidan%20-%20Example.lua)
+# [Obsidian](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Obsidan/Obsidan%20-%20Example.lua)
 
-![image](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/assets/Obsidian.png?raw=true)
+![image](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Obsidan/Obsidian.png?raw=true)
 
 # [PRIV9](https://raw.githubusercontent.com/venatresca4888/UI-Library/refs/heads/main/Libraries/PRIV9%20-%20Example.lua)
 
@@ -146,22 +146,22 @@ Showcase : https://youtu.be/FcVXVaTPqNY
 
 <img width="716" height="519" alt="image" src="https://github.com/user-attachments/assets/62303b96-613a-4ff6-9493-c2d4d8cc3c69" />
 
-# [Fatality](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/fatality%20-%20Example)
+# [Fatality](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Fatality/Fatality%20-%20Example.lua)
 
-<img width="694" height="463" alt="image" src="https://github.com/venatresca4888/UI-Library/blob/main/Libraries/assets/fatality.webp?raw=true" />
+<img width="694" height="463" alt="image" src="https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Fatality/fatality.webp?raw=true" />
 
-# [Apple](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Apple%20Ui%20-%20Example)
+# [Apple](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Apple/Apple%20-%20Lib.lua)
 
-<img width="842" height="629" alt="image" src="https://github.com/venatresca4888/UI-Library/blob/main/Libraries/assets/Apple.webp?raw=true" />
+<img width="842" height="629" alt="image" src="https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Apple/image.png?raw=true" />
 
-# [Universe](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/universe%20-%20Library.lua)
+# [Universe](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Universe/universe%20-%20Library.lua)
 
-<img width="808" height="545" alt="image" src="https://github.com/venatresca4888/UI-Library/blob/main/Libraries/assets/universe.webp?raw=true" />
+<img width="808" height="545" alt="image" src="https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Universe/universe.webp?raw=true" />
 
-# [Bitchbot](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Bitchbot%20-%20library.lua)
+# [Bitchbot](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Bitchbot/Bitchbot%20-%20Example.lua)
 
-<img width="624" height="620" alt="image" src="https://github.com/venatresca4888/UI-Library/blob/main/Libraries/assets/Bitchbot.webp?raw=true" />
+<img width="624" height="620" alt="image" src="https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Bitchbot/Bitchbot.webp?raw=true" />
 
-# [Imgui](https://raw.githubusercontent.com/venatresca4888/UI-Library/refs/heads/main/Libraries/Imgui%20-%20library.txt)
+# [Imgui](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Imgui/Imgui%20-%20library.lua)
 
-<img width="528" height="608" alt="image" src="https://github.com/venatresca4888/UI-Library/blob/main/Libraries/assets/Imgui.webp?raw=true" />
+<img width="528" height="608" alt="image" src="https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Imgui/Imgui.webp?raw=true" />
