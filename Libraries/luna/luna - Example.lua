@@ -1,3 +1,4 @@
+local Luna = loadstring(game:HttpGet("https://raw.nebulasoftworks.xyz/luna", true))()
 local Window = Luna:CreateWindow({
     Name = "Luna Example Window",
     Subtitle = "Test",
