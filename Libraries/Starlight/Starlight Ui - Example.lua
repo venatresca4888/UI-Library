@@ -6,9 +6,8 @@ local NebulaIcons = loadstring(game:HttpGet("https://raw.nebulasoftworks.xyz/neb
 
 local MarketplaceService = game:GetService("MarketplaceService")
 local placeId = game.PlaceId
-local gameName = "Unknown Game" -- ค่าตั้งต้น ถ้าดึงชื่อไม่ได้
+local gameName = "Unknown Game" 
 
--- พยายามดึงชื่อเกม
 pcall(function()
     gameName = MarketplaceService:GetProductInfo(placeId).Name
 end)
